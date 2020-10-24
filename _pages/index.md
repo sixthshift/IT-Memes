@@ -477,6 +477,14 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/deadline.jpg
+    # short description of image
+    alt: Dealing with dealine of project
+    # your profile name and github page
+    posted_by: PradheePKumar_R
+    github: https://github.com/iampk94
+
 
 
 
