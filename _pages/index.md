@@ -477,24 +477,13 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/whenyoustuffupbutstillsucceed.jpg
+    # short description of image
+    alt: When you stuff up be still succeed
+    # your github profile name and github account
+    posted_by: nelson-w
+    github: https://github.com/nelson-w
 ### leave below as is
 ---
 
