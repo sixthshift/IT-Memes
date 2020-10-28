@@ -477,6 +477,14 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/halloween.jpg
+    # short description of image
+    alt: Halloween
+    # your github profile name and github account
+    posted_by: sixthshift
+    github: https://github.com/sixthshift
+
 
 
 
