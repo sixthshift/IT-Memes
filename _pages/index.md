@@ -479,6 +479,14 @@ gallery:
 
 
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/christmas_developers.jpg
+    # short description of image
+    alt: Who makes Christmas toys?
+    # your github profile name and github account
+    posted_by: sixthshift
+    github: https://github.com/sixthshift
+
 
 
 
