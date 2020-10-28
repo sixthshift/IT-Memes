@@ -477,7 +477,13 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
-
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/code_review.jpg
+    # short description of image
+    alt: Corporate Devs
+    # your github profile name and github account
+    posted_by: sixthshift
+    github: https://github.com/sixthshift
 
 
 
