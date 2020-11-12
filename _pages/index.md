@@ -476,6 +476,14 @@ gallery:
     # your github profile name and github account
     posted_by: Nick Neos
     github: https://github.com/nickneos
+  
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/meme_cannot_reproduce.png
+    # short description of image
+    alt: Dev cannot reproduce bug in local
+    # your github profile name and github account
+    posted_by: Tuhin Roy
+    github: https://github.com/troy96
 
   # insert image details below (spacing important!)
   - image_path: /assets/memes/deadline.jpg
