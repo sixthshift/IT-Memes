@@ -476,6 +476,30 @@ gallery:
     # your github profile name and github account
     posted_by: Nick Neos
     github: https://github.com/nickneos
+  
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/meme_cannot_reproduce.png
+    # short description of image
+    alt: Dev cannot reproduce bug in local
+    # your github profile name and github account
+    posted_by: Tuhin Roy
+    github: https://github.com/troy96
+    
+  # insert image details below (spacing important!)  
+  - image_path: /assets/memes/deadline.jpg
+    # short description of image
+    alt: Dealing with dealine of project
+    # your profile name and github page
+    posted_by: PradheePKumar_R
+    github: https://github.com/iampk94
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/whenyoustuffupbutstillsucceed.jpg
+    # short description of image
+    alt: When you stuff up be still succeed
+    # your github profile name and github account
+    posted_by: nelson-w
+    github: https://github.com/nelson-w
 
   # insert image details below (spacing important!)
   - image_path: /assets/memes/code_review.jpg
@@ -484,22 +508,13 @@ gallery:
     # your github profile name and github account
     posted_by: sixthshift
     github: https://github.com/sixthshift
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    
+    
+    
+    
+    
+    
 
 ### leave below as is
 ---
