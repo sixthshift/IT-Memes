@@ -484,8 +484,8 @@ gallery:
     # your github profile name and github account
     posted_by: Tuhin Roy
     github: https://github.com/troy96
-
-  # insert image details below (spacing important!)
+    
+  # insert image details below (spacing important!)  
   - image_path: /assets/memes/deadline.jpg
     # short description of image
     alt: Dealing with dealine of project
@@ -500,6 +500,22 @@ gallery:
     # your github profile name and github account
     posted_by: nelson-w
     github: https://github.com/nelson-w
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/code_review.jpg
+    # short description of image
+    alt: Corporate Devs
+    # your github profile name and github account
+    posted_by: sixthshift
+    github: https://github.com/sixthshift
+    
+    
+    
+    
+    
+    
+    
+
 ### leave below as is
 ---
 
